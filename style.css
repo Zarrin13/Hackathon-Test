@@ -1,0 +1,39 @@
+span{color:#119C59 ;}
+
+h1{font-family: Montserrat;
+font-weight: 00;
+font-size: 52px;
+leading-trim: NONE;
+line-height: 64px;
+letter-spacing: 0.2px;
+vertical-align: bottom;
+color:#25282B;
+}
+.btn1{width: 195px;
+height: 58px;
+angle: 0 deg;
+opacity: 1;
+border-width: 2px;
+border-radius: 36px;
+border-color: #119C59;
+color: #119C59;
+
+}
+.btn3{background-color: #119C59;
+width: 195px;
+height: 58px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 30px;
+color: white;
+font-size: medium;
+
+}
+.btn2{width: 195px;
+height: 58px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 30px;
+background-color: #119C59;
+color: white;
+}
